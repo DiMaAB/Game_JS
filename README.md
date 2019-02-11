@@ -1,4 +1,4 @@
-https://rashchukkolya.github.io/JS_Game_Project/build/
+
 
 # Gulp Starter Kit - basic gulp boilerplate
 
